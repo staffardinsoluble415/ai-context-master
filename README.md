@@ -1,5 +1,7 @@
 # 🧠 AI Context Master - Universal Context OS
 
+![Banner](https://raw.githubusercontent.com/adamwang99/ai-context-master/main/AI%20CONTEXT%20MASTER.png)
+
 > The ultimate context operating system for every AI Agent - Powered by Memory Stack Technology
 > Universal Context Operating System for Claude Code, Cursor, Copilot, and all Autonomous Agents
 
