@@ -1,0 +1,456 @@
+{
+  "schemaVersion": 1,
+  "vaultPath": "D:\\AI working\\MEMORY cho Agent Coding\\MemoryOS",
+  "generatedAt": "2026-03-10T16:11:34.330Z",
+  "files": {
+    "inbox/welcome.md": {
+      "relativePath": "inbox/welcome.md",
+      "mtimeMs": 1773159094268.1646,
+      "nodes": [
+        {
+          "id": "note:inbox/welcome",
+          "title": "Welcome to MemoryOS",
+          "type": "note",
+          "category": "note",
+          "path": "inbox/welcome.md",
+          "tags": [
+            "getting-started",
+            "welcome"
+          ],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-10T16:11:34.268Z"
+        },
+        {
+          "id": "tag:getting-started",
+          "title": "#getting-started",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "tag:welcome",
+          "title": "#welcome",
+          "type": "tag",
+          "category": "tag",
+          "path": null,
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": null
+        },
+        {
+          "id": "unresolved:double-brackets",
+          "title": "Double Brackets",
+          "type": "unresolved",
+          "category": "unresolved",
+          "path": null,
+          "tags": [],
+          "missing": true,
+          "degree": 0,
+          "modifiedAt": null
+        }
+      ],
+      "edges": [
+        {
+          "id": "tag:note:inbox/welcome->tag:getting-started",
+          "source": "note:inbox/welcome",
+          "target": "tag:getting-started",
+          "type": "tag"
+        },
+        {
+          "id": "tag:note:inbox/welcome->tag:welcome",
+          "source": "note:inbox/welcome",
+          "target": "tag:welcome",
+          "type": "tag"
+        },
+        {
+          "id": "wiki_link:note:inbox/welcome->unresolved:double-brackets",
+          "source": "note:inbox/welcome",
+          "target": "unresolved:double-brackets",
+          "type": "wiki_link"
+        }
+      ]
+    },
+    "README.md": {
+      "relativePath": "README.md",
+      "mtimeMs": 1773159094266.1382,
+      "nodes": [
+        {
+          "id": "note:README",
+          "title": "README",
+          "type": "note",
+          "category": "note",
+          "path": "README.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-10T16:11:34.266Z"
+        }
+      ],
+      "edges": []
+    },
+    "SETUP.md": {
+      "relativePath": "SETUP.md",
+      "mtimeMs": 1773154998052.606,
+      "nodes": [
+        {
+          "id": "note:SETUP",
+          "title": "SETUP",
+          "type": "note",
+          "category": "note",
+          "path": "SETUP.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-10T15:03:18.052Z"
+        }
+      ],
+      "edges": []
+    },
+    "templates/checkpoint.md": {
+      "relativePath": "templates/checkpoint.md",
+      "mtimeMs": 1773156488356.3547,
+      "nodes": [
+        {
+          "id": "note:templates/checkpoint",
+          "title": "Checkpoint",
+          "type": "note",
+          "category": "note",
+          "path": "templates/checkpoint.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-10T15:28:08.356Z"
+        }
+      ],
+      "edges": []
+    },
+    "templates/daily-note.md": {
+      "relativePath": "templates/daily-note.md",
+      "mtimeMs": 1773156488360.3533,
+      "nodes": [
+        {
+          "id": "note:templates/daily-note",
+          "title": "Daily Note",
+          "type": "note",
+          "category": "note",
+          "path": "templates/daily-note.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-10T15:28:08.360Z"
+        }
+      ],
+      "edges": []
+    },
+    "templates/decision.md": {
+      "relativePath": "templates/decision.md",
+      "mtimeMs": 1773156488367.3518,
+      "nodes": [
+        {
+          "id": "note:templates/decision",
+          "title": "Decision",
+          "type": "note",
+          "category": "note",
+          "path": "templates/decision.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-10T15:28:08.367Z"
+        }
+      ],
+      "edges": []
+    },
+    "templates/handoff.md": {
+      "relativePath": "templates/handoff.md",
+      "mtimeMs": 1773156488370.3494,
+      "nodes": [
+        {
+          "id": "note:templates/handoff",
+          "title": "Handoff",
+          "type": "note",
+          "category": "note",
+          "path": "templates/handoff.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-10T15:28:08.370Z"
+        }
+      ],
+      "edges": []
+    },
+    "templates/lesson.md": {
+      "relativePath": "templates/lesson.md",
+      "mtimeMs": 1773156488381.346,
+      "nodes": [
+        {
+          "id": "note:templates/lesson",
+          "title": "Lesson",
+          "type": "note",
+          "category": "note",
+          "path": "templates/lesson.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-10T15:28:08.381Z"
+        }
+      ],
+      "edges": []
+    },
+    "templates/person.md": {
+      "relativePath": "templates/person.md",
+      "mtimeMs": 1773156488385.339,
+      "nodes": [
+        {
+          "id": "note:templates/person",
+          "title": "Person",
+          "type": "note",
+          "category": "note",
+          "path": "templates/person.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-10T15:28:08.385Z"
+        }
+      ],
+      "edges": []
+    },
+    "templates/project.md": {
+      "relativePath": "templates/project.md",
+      "mtimeMs": 1773156488389.339,
+      "nodes": [
+        {
+          "id": "note:templates/project",
+          "title": "Project",
+          "type": "note",
+          "category": "note",
+          "path": "templates/project.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-10T15:28:08.389Z"
+        }
+      ],
+      "edges": []
+    },
+    "templates/task.md": {
+      "relativePath": "templates/task.md",
+      "mtimeMs": 1773156488396.3335,
+      "nodes": [
+        {
+          "id": "note:templates/task",
+          "title": "Task",
+          "type": "note",
+          "category": "note",
+          "path": "templates/task.md",
+          "tags": [],
+          "missing": false,
+          "degree": 0,
+          "modifiedAt": "2026-03-10T15:28:08.396Z"
+        }
+      ],
+      "edges": []
+    }
+  },
+  "graph": {
+    "schemaVersion": 1,
+    "nodes": [
+      {
+        "id": "note:inbox/welcome",
+        "title": "Welcome to MemoryOS",
+        "type": "note",
+        "category": "note",
+        "path": "inbox/welcome.md",
+        "tags": [
+          "getting-started",
+          "welcome"
+        ],
+        "missing": false,
+        "degree": 3,
+        "modifiedAt": "2026-03-10T16:11:34.268Z"
+      },
+      {
+        "id": "note:README",
+        "title": "README",
+        "type": "note",
+        "category": "note",
+        "path": "README.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-10T16:11:34.266Z"
+      },
+      {
+        "id": "note:SETUP",
+        "title": "SETUP",
+        "type": "note",
+        "category": "note",
+        "path": "SETUP.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-10T15:03:18.052Z"
+      },
+      {
+        "id": "note:templates/checkpoint",
+        "title": "Checkpoint",
+        "type": "note",
+        "category": "note",
+        "path": "templates/checkpoint.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-10T15:28:08.356Z"
+      },
+      {
+        "id": "note:templates/daily-note",
+        "title": "Daily Note",
+        "type": "note",
+        "category": "note",
+        "path": "templates/daily-note.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-10T15:28:08.360Z"
+      },
+      {
+        "id": "note:templates/decision",
+        "title": "Decision",
+        "type": "note",
+        "category": "note",
+        "path": "templates/decision.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-10T15:28:08.367Z"
+      },
+      {
+        "id": "note:templates/handoff",
+        "title": "Handoff",
+        "type": "note",
+        "category": "note",
+        "path": "templates/handoff.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-10T15:28:08.370Z"
+      },
+      {
+        "id": "note:templates/lesson",
+        "title": "Lesson",
+        "type": "note",
+        "category": "note",
+        "path": "templates/lesson.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-10T15:28:08.381Z"
+      },
+      {
+        "id": "note:templates/person",
+        "title": "Person",
+        "type": "note",
+        "category": "note",
+        "path": "templates/person.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-10T15:28:08.385Z"
+      },
+      {
+        "id": "note:templates/project",
+        "title": "Project",
+        "type": "note",
+        "category": "note",
+        "path": "templates/project.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-10T15:28:08.389Z"
+      },
+      {
+        "id": "note:templates/task",
+        "title": "Task",
+        "type": "note",
+        "category": "note",
+        "path": "templates/task.md",
+        "tags": [],
+        "missing": false,
+        "degree": 0,
+        "modifiedAt": "2026-03-10T15:28:08.396Z"
+      },
+      {
+        "id": "tag:getting-started",
+        "title": "#getting-started",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "tag:welcome",
+        "title": "#welcome",
+        "type": "tag",
+        "category": "tag",
+        "path": null,
+        "tags": [],
+        "missing": false,
+        "degree": 1,
+        "modifiedAt": null
+      },
+      {
+        "id": "unresolved:double-brackets",
+        "title": "Double Brackets",
+        "type": "unresolved",
+        "category": "unresolved",
+        "path": null,
+        "tags": [],
+        "missing": true,
+        "degree": 1,
+        "modifiedAt": null
+      }
+    ],
+    "edges": [
+      {
+        "id": "tag:note:inbox/welcome->tag:getting-started",
+        "source": "note:inbox/welcome",
+        "target": "tag:getting-started",
+        "type": "tag"
+      },
+      {
+        "id": "tag:note:inbox/welcome->tag:welcome",
+        "source": "note:inbox/welcome",
+        "target": "tag:welcome",
+        "type": "tag"
+      },
+      {
+        "id": "wiki_link:note:inbox/welcome->unresolved:double-brackets",
+        "source": "note:inbox/welcome",
+        "target": "unresolved:double-brackets",
+        "type": "wiki_link"
+      }
+    ],
+    "stats": {
+      "generatedAt": "2026-03-10T16:11:34.330Z",
+      "nodeCount": 14,
+      "edgeCount": 3,
+      "nodeTypeCounts": {
+        "note": 11,
+        "tag": 2,
+        "unresolved": 1
+      },
+      "edgeTypeCounts": {
+        "tag": 2,
+        "wiki_link": 1
+      }
+    }
+  }
+}
