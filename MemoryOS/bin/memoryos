@@ -1,0 +1,6 @@
+#!/usr/bin/env node
+/**
+ * MemoryOS CLI Launcher
+ * This is the entry point referenced in package.json bin field
+ */
+require('../src/index.js');

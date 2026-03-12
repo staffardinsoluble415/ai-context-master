@@ -1,0 +1,24 @@
+{
+  "name": "memoryos",
+  "version": "1.0.0",
+  "description": "Full Memory Operating System for Claude Code Agent",
+  "main": "src/index.js",
+  "bin": {
+    "memoryos": "./bin/memoryos"
+  },
+  "scripts": {
+    "start": "node bin/memoryos",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "memory",
+    "claude",
+    "ai",
+    "context"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

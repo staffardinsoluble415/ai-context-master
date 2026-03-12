@@ -23,3 +23,6 @@ Thumbs.db
 # Temporary
 *.tmp
 *.temp
+
+# MemoryOS local config (user-specific)
+MemoryOS/.memoryos/config.json
