@@ -5,13 +5,13 @@
   // CLAUDE CODE SETTINGS
   // ======================
   "claude-code.contextFiles": [
-    "D:/AI working/MEMORY cho Agent Coding/SOUL.md",
-    "D:/AI working/MEMORY cho Agent Coding/USER.md",
-    "D:/AI working/MEMORY cho Agent Coding/GOVERNANCE.md",
-    "D:/AI working/MEMORY cho Agent Coding/RULES.md",
-    "D:/AI working/MEMORY cho Agent Coding/COORDINATION.md",
-    "D:/AI working/MEMORY cho Agent Coding/CH.md",
-    "D:/AI working/MEMORY cho Agent Coding/MEMORY.md"
+    "D:/AI working/ai-context-master/SOUL.md",
+    "D:/AI working/ai-context-master/USER.md",
+    "D:/AI working/ai-context-master/GOVERNANCE.md",
+    "D:/AI working/ai-context-master/RULES.md",
+    "D:/AI working/ai-context-master/COORDINATION.md",
+    "D:/AI working/ai-context-master/CH.md",
+    "D:/AI working/ai-context-master/MEMORY.md"
   ],
   "claude-code.autoContextLoad": true,
   "claude-code.parallelTasks": true,

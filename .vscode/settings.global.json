@@ -6,7 +6,7 @@
 
 // Đường dẫn tới Memory Stack
 // Thay đổi đường dẫn này nếu bạn lưu ở chỗ khác
-"MEMORY_STACK_PATH": "D:/AI working/MEMORY cho Agent Coding",
+"MEMORY_STACK_PATH": "D:/AI working/ai-context-master",
 
 // ======================
 // CLAUDE CODE - AUTO CONTEXT

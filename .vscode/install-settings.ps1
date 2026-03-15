@@ -18,7 +18,7 @@ if (-not (Test-Path $vscodePath)) {
 }
 
 # Memory Stack path
-$memoryPath = "D:\AI working\MEMORY cho Agent Coding"
+$memoryPath = "D:\AI working\ai-context-master"
 
 # Check if memory stack exists
 if (-not (Test-Path $memoryPath)) {
@@ -53,7 +53,8 @@ $settings["claude-code.contextFiles"] = @(
     "$memoryPath\START.md",
     "$memoryPath\ULTIMATE_PROMPT.md",
     "$memoryPath\AI_CONTEXT_MASTER.md",
-    "$memoryPath\MemoryOS\SETUP.md"
+    "$memoryPath\MemoryOS\README.md",
+    "$memoryPath\MemoryOS\templates\*.md"
 )
 $settings["claude-code.autoContextLoad"] = $true
 $settings["claude-code.parallelTasks"] = $true
@@ -77,7 +78,8 @@ Write-Host "  - MEMORY.md (Knowledge)"
 Write-Host "  - START.md (Quick Reference)"
 Write-Host "  - ULTIMATE_PROMPT.md (Agent Factory)"
 Write-Host "  - AI_CONTEXT_MASTER.md (System Prompt) ⭐ NEW"
-Write-Host "  - MemoryOS/SETUP.md (Full Memory OS)"
+Write-Host "  - MemoryOS/README.md (Full Memory OS)"
+Write-Host "  - MemoryOS/templates/*.md (Memory templates)"
 Write-Host "  - .claude/agents/ (6 Subagents)"
 Write-Host ""
 Write-Host "Restart VS Code to apply changes!" -ForegroundColor Green
