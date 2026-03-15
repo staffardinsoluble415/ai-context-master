@@ -3,7 +3,7 @@
 ![Banner](https://raw.githubusercontent.com/adamwang99/ai-context-master/main/AI%20CONTEXT%20MASTER.png)
 
 > The ultimate context operating system for every AI Agent - Powered by Memory Stack Technology
-> Universal Context Operating System for Claude Code, Cursor, Copilot, and all Autonomous Agents
+> Universal Context Operating System for Cursor, Copilot, and all AI Assistants
 
 ---
 
@@ -24,6 +24,7 @@
 | **Memory Stack** | 10+ files containing identity, rules, workflow |
 | **Context Hub** | Lookup accurate API docs (no hallucination) |
 | **MemoryOS** | Automatically remember every conversation |
+| **VS Code Extension** | Auto-apply context to any workspace |
 | **Subagents** | 6 specialized agents for crypto projects |
 | **Parallel Workflow** | Distribute tasks to multiple agents |
 | **Auto-Apply** | Automatically load memory for every project |
@@ -67,56 +68,52 @@ ai-context-master/
 
 ## 🛠️ Installation
 
-### Step 1: Clone and Open in VS Code
+### Option 1: VS Code Extension (Recommended)
+
+1. Download extension from [GitHub Releases](https://github.com/adamwang99/ai-context-master/releases)
+2. VS Code → Extensions → `...` → **Install from VSIX**
+3. Select the downloaded file
+
+Extension will auto-apply context to any workspace!
+
+### Option 2: Clone and Use Directly
 
 ```bash
 # Clone repo
-git clone <repo-url>
+git clone https://github.com/adamwang99/ai-context-master.git
 cd ai-context-master
 
 # Open in VS Code
 code .
+
+# Run setup
+setup.bat
 ```
 
-### Step 2: Install Tools
+### Optional: MemoryOS CLI
 
 ```bash
-# Context Hub (API Docs)
-npm install -g chub-dev
-
-# MemoryOS (Full Memory OS)
-# Already included - no installation needed:
+# Navigate to MemoryOS
 cd MemoryOS
 node bin/memoryos init
-```
-
-### Step 3: Apply Settings
-
-```powershell
-# Option 1: Double-click setup.bat (Easiest!)
-setup.bat
-
-# Option 2: Run PowerShell script directly
-cd .vscode
-.\install-settings.ps1
-
-# Option 3: Manual
-# Ctrl+Shift+P → "Preferences: Open User Settings (JSON)"
-# Add contextFiles to settings
 ```
 
 ---
 
 ## 📖 How to Use
 
-### 1. Start Agent
+### 1. Start AI Assistant
 
-Open Claude Code in VS Code:
+Open any AI assistant in VS Code (Cursor, Copilot, Claude, etc.):
+- The extension will automatically create `CLAUDE.md`
+- AI will read context automatically
+
+Or manually open:
 ```
-Ctrl+Shift+P → "Claude Code"
+Ctrl+Shift+P → "Chat" or use your AI assistant
 ```
 
-Agent will automatically read:
+AI will automatically read:
 - SOUL.md → Identity
 - USER.md → Preferences
 - GOVERNANCE.md → Rules
@@ -143,18 +140,12 @@ memoryos capture "Key decision: ..."
 memoryos checkpoint --working-on "next task"
 ```
 
-### 4. Use Subagents
+### 4. Use Subagents (Optional)
 
-Copy prompt from `ULTIMATE_PROMPT.md` into Claude Code:
+If you need specialized agents, copy prompt from `ULTIMATE_PROMPT.md` into your AI assistant:
 
 ```
-🚀 FULLSTACK CRYPTO AGENT FACTORY ACTIVATED 🚀
-
-1. LOAD MEMORY: memoryos wake --profile crypto
-2. SPAWN AGENTS: ccxt-trader, supabase-engineer
-3. CONTEXT HUB: chub search "CCXT Python"
-4. TASK: [Your task]
-5. SAVE: memoryos checkpoint
+[Copy content from ULTIMATE_PROMPT.md]
 ```
 
 ---
@@ -271,7 +262,7 @@ node bin/memoryos wake
 node bin/memoryos capture "Test memory"
 
 # Test Subagents
-# Open Claude Code and paste prompt from ULTIMATE_PROMPT.md
+# Open your AI assistant and paste prompt from ULTIMATE_PROMPT.md
 ```
 
 ---
