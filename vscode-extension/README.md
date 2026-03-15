@@ -11,10 +11,16 @@
 
 ## Installation
 
-### From VSIX (Recommended for testing)
+### From GitHub Releases (Recommended)
 
-1. Download the latest `.vsix` file from Releases
-2. Run: `code --install-extension ai-context-master-1.0.0.vsix`
+1. Download the `.vsix` file from [GitHub Releases](https://github.com/adamwang99/ai-context-master/releases)
+2. In VS Code: Extensions → `...` (top-right) → **Install from VSIX**
+3. Select the downloaded file
+
+Or use command line:
+```bash
+code --install-extension ai-context-master-1.0.0.vsix
+```
 
 ### From Source
 
