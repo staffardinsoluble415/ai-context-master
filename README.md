@@ -93,14 +93,17 @@ node bin/memoryos init
 ### Step 3: Apply Settings
 
 ```powershell
-# Run auto-install script
+# Option 1: Double-click setup.bat (Easiest!)
+setup.bat
+
+# Option 2: Run PowerShell script directly
 cd .vscode
 .\install-settings.ps1
-```
 
-**Or manually:**
-1. `Ctrl+Shift+P` → "Preferences: Open User Settings (JSON)"
-2. Add contextFiles to settings
+# Option 3: Manual
+# Ctrl+Shift+P → "Preferences: Open User Settings (JSON)"
+# Add contextFiles to settings
+```
 
 ---
 
