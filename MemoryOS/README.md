@@ -1,6 +1,6 @@
 # MemoryOS - Full Memory Operating System
 
-> Full Memory OS for Claude Code Agent - Self-hosted version
+> Full Memory OS for AI Assistants - Self-hosted version
 
 An elephant never forgets.
 

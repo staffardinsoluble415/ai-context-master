@@ -1,6 +1,6 @@
 # MemoryOS - Full Memory Operating System
 
-> Full Memory OS for Claude Code Agent
+> Full Memory OS for AI Assistants
 > Setup: 2026-03-11
 
 ---

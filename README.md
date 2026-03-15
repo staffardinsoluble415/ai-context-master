@@ -290,4 +290,4 @@ MIT License
 
 ---
 
-**Made with ❤️ by Adam Wang + Claude Sonnet 4.6**
+**Made with ❤️ by Adam Wang**
