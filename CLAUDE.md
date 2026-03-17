@@ -9,6 +9,7 @@ For full context, read these files (in order):
 - **USER.md** - User preferences
 - **GOVERNANCE.md** - Policy rules
 - **RULES.md** - Operating procedures
+- **DESIGN_SYSTEM.md** - Design standards
 - **WORKFLOW.md** - Task workflow
 - **START.md** - Quick start guide
 

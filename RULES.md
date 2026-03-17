@@ -186,3 +186,14 @@ Output:
 │   → Terminal tabs for running                           │
 └──────────────────────────────────────────────────────────┘
 ```
+
+---
+
+## Part 3: UI Design Standards
+
+All UI/frontend tasks must follow these rules:
+
+- **Consistency**: All new interfaces must follow colors and spacing in `DESIGN_SYSTEM.md`
+- **Frameworks**: Use Shadcn/ui or Tailwind CSS
+- **Verification**: AI must verify responsive layout before completing task
+- **Accessibility**: Ensure WCAG AA compliance (contrast ratio ≥ 4.5:1)
